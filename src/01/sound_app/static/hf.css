@@ -1,0 +1,137 @@
+
+body {
+    font-family:      Verdana, Geneva, Arial, sans-serif;
+    font-size:        medium;
+    background-color: rgba(8, 233, 203, 0.5);
+    margin-top:       5%;
+    margin-bottom:    5%;
+    margin-left:      10%;
+    margin-right:     10%;
+    border:           1px dotted gray;
+    padding:          10px 10px 10px 10px;
+  }
+  a {
+    text-decoration:  none; 
+    font-weight:      600; 
+  }
+  a:hover {
+    text-decoration:  underline;
+  }
+  a img {
+    border:           0;
+  }
+  h2 {
+    font-size:        150%;
+  }
+  table {
+    margin-left:      20px;
+    margin-right:     20px;
+    caption-side:     bottom;
+    border-collapse:  collapse;
+  }
+  td, th {
+    padding:          5px;
+    text-align:       left;
+  }
+  .copyright {
+    font-size:        75%;
+    font-style:       italic;
+  }
+  .slogan {
+    font-size:        75%;
+    font-style:       italic;
+  }
+  .confirmentry {
+    font-weight:      600; 
+  }
+  
+  /*** Tables ***/
+  
+  table {
+  font-size:          1em;
+  background-color:   #fafcff;
+  border:             1px solid #909090;
+  color:              #2a2a2a;
+  padding:            5px 5px 2px;
+  border-collapse:    collapse;
+  }
+  
+  td, th {
+  border:             thin dotted gray;
+  }
+  
+  /*** Inputs ***/
+  input[type=text] {
+    font-size:        115%;
+    width:            30em;
+  }
+  input[type=submit] {
+    font-size:        125%;
+  }
+  select {
+    font-size:        125%;
+  }
+  
+  .upload-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.upload-button:hover {
+    background-color: #0056b3;
+}
+
+input[type="file"] {
+  background-color: #007bff; /* Set the background color */
+  color: #fff; /* Set the text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border: none; /* Remove the default border */
+  border-radius: 5px; /* Apply rounded corners */
+}
+
+input[type="file"]:hover {
+  background-color: #0056b3; /* Set the background color on hover */
+}
+
+input[type="submit"] {
+  background-color: #28a745; /* Set the background color */
+  color: #fff; /* Set the text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border: none; /* Remove the default border */
+  border-radius: 5px; /* Apply rounded corners */
+}
+
+input[type="submit"]:hover {
+  background-color: #218838; /* Set the background color on hover */
+}
+
+.custom-file-upload {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.custom-file-upload input[type="file"] {
+  display: none;
+}
+
+.upload-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.upload-button:hover {
+  background-color: #218838;
+}

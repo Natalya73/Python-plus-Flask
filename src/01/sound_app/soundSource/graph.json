@@ -1,0 +1,5858 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "Harry Potter"
+        },
+        {
+            "id": "Fantasy literature"
+        },
+        {
+            "id": "Literature"
+        },
+        {
+            "id": "Writing"
+        },
+        {
+            "id": "Cognition"
+        },
+        {
+            "id": "Social"
+        },
+        {
+            "id": "Neuropsychology"
+        },
+        {
+            "id": "Writing process"
+        },
+        {
+            "id": "Writing system"
+        },
+        {
+            "id": "Language"
+        },
+        {
+            "id": "Semantics"
+        },
+        {
+            "id": "Lexicon"
+        },
+        {
+            "id": "Syntax"
+        },
+        {
+            "id": "Phonology"
+        },
+        {
+            "id": "Morphology (linguistics)"
+        },
+        {
+            "id": "Written language"
+        },
+        {
+            "id": "Text (literary theory)"
+        },
+        {
+            "id": "Handwriting"
+        },
+        {
+            "id": "Printing press"
+        },
+        {
+            "id": "Digital data"
+        },
+        {
+            "id": "Symbol"
+        },
+        {
+            "id": "Computer language"
+        },
+        {
+            "id": "Spoken language"
+        },
+        {
+            "id": "Letter (message)"
+        },
+        {
+            "id": "Libraries"
+        },
+        {
+            "id": "Finger"
+        },
+        {
+            "id": "Stylus"
+        },
+        {
+            "id": "Quill"
+        },
+        {
+            "id": "Ink brush"
+        },
+        {
+            "id": "Pencil"
+        },
+        {
+            "id": "Pen"
+        },
+        {
+            "id": "Lithography"
+        },
+        {
+            "id": "Stone tablet"
+        },
+        {
+            "id": "Clay tablet"
+        },
+        {
+            "id": "Papyrus"
+        },
+        {
+            "id": "Wax tablet"
+        },
+        {
+            "id": "Vellum"
+        },
+        {
+            "id": "Parchment"
+        },
+        {
+            "id": "Paper"
+        },
+        {
+            "id": "Intaglio printing"
+        },
+        {
+            "id": "Blackboard"
+        },
+        {
+            "id": "Porcelain"
+        },
+        {
+            "id": "Whiteboard"
+        },
+        {
+            "id": "Quipu"
+        },
+        {
+            "id": "Graffiti"
+        },
+        {
+            "id": "Tattoo"
+        },
+        {
+            "id": "Typewriter"
+        },
+        {
+            "id": "Word processor"
+        },
+        {
+            "id": "Multiple-document interface"
+        },
+        {
+            "id": "Comparison of note-taking software"
+        },
+        {
+            "id": "World Wide Web"
+        },
+        {
+            "id": "Search engine"
+        },
+        {
+            "id": "Wiki"
+        },
+        {
+            "id": "E-mail"
+        },
+        {
+            "id": "User interface"
+        },
+        {
+            "id": "Operating system"
+        },
+        {
+            "id": "Input device"
+        },
+        {
+            "id": "Natural language processing"
+        },
+        {
+            "id": "Natural language generation"
+        },
+        {
+            "id": "Software"
+        },
+        {
+            "id": "Machine translation"
+        },
+        {
+            "id": "Development of writing"
+        },
+        {
+            "id": "History"
+        },
+        {
+            "id": "Culture"
+        },
+        {
+            "id": "Curriculum"
+        },
+        {
+            "id": "The Canon of Medicine"
+        },
+        {
+            "id": "Literary canon"
+        },
+        {
+            "id": "Legal systems"
+        },
+        {
+            "id": "Census"
+        },
+        {
+            "id": "Contract"
+        },
+        {
+            "id": "Deed"
+        },
+        {
+            "id": "Tax"
+        },
+        {
+            "id": "Trade agreement"
+        },
+        {
+            "id": "Treaty"
+        },
+        {
+            "id": "H.G. Wells"
+        },
+        {
+            "id": "City-state"
+        },
+        {
+            "id": "Empire"
+        },
+        {
+            "id": "Charles Bazerman"
+        },
+        {
+            "id": "Mesopotamia"
+        },
+        {
+            "id": "Ancient Egypt"
+        },
+        {
+            "id": "Mesoamerica"
+        },
+        {
+            "id": "Religious text"
+        },
+        {
+            "id": "Models of scientific inquiry"
+        },
+        {
+            "id": "Knowledge management"
+        },
+        {
+            "id": "History of writing"
+        },
+        {
+            "id": "Soft systems methodology"
+        },
+        {
+            "id": "Memory"
+        },
+        {
+            "id": "Time management"
+        },
+        {
+            "id": "Recipe"
+        },
+        {
+            "id": "Logbook"
+        },
+        {
+            "id": "Map"
+        },
+        {
+            "id": "Ritual"
+        },
+        {
+            "id": "Essay"
+        },
+        {
+            "id": "Monograph"
+        },
+        {
+            "id": "Broadside (printing)"
+        },
+        {
+            "id": "Plan"
+        },
+        {
+            "id": "Issue tracking system"
+        },
+        {
+            "id": "Petition"
+        },
+        {
+            "id": "Manifesto"
+        },
+        {
+            "id": "Storytelling"
+        },
+        {
+            "id": "Kinship"
+        },
+        {
+            "id": "Business correspondence"
+        },
+        {
+            "id": "Activism"
+        },
+        {
+            "id": "Life writing"
+        },
+        {
+            "id": "Diary"
+        },
+        {
+            "id": "Social media"
+        },
+        {
+            "id": "Developed country"
+        },
+        {
+            "id": "Lawyer"
+        },
+        {
+            "id": "Accounting"
+        },
+        {
+            "id": "Software design"
+        },
+        {
+            "id": "Human resource management"
+        },
+        {
+            "id": "Workflow"
+        },
+        {
+            "id": "Records management"
+        },
+        {
+            "id": "Incident report"
+        },
+        {
+            "id": "Inventory"
+        },
+        {
+            "id": "Sales"
+        },
+        {
+            "id": "Timesheet"
+        },
+        {
+            "id": "Drayage"
+        },
+        {
+            "id": "Constitution"
+        },
+        {
+            "id": "Legislature"
+        },
+        {
+            "id": "Executive (government)"
+        },
+        {
+            "id": "Governance"
+        },
+        {
+            "id": "Policy"
+        },
+        {
+            "id": "International treaty"
+        },
+        {
+            "id": "Budget"
+        },
+        {
+            "id": "Economic"
+        },
+        {
+            "id": "Goal"
+        },
+        {
+            "id": "Value (ethics)"
+        },
+        {
+            "id": "Problem solving"
+        },
+        {
+            "id": "Corporate governance"
+        },
+        {
+            "id": "Legal writing"
+        },
+        {
+            "id": "Academic discipline"
+        },
+        {
+            "id": "Research"
+        },
+        {
+            "id": "Academic authorship"
+        },
+        {
+            "id": "Citation"
+        },
+        {
+            "id": "Academic journal"
+        },
+        {
+            "id": "University press"
+        },
+        {
+            "id": "Lab notebook"
+        },
+        {
+            "id": "Preprint"
+        },
+        {
+            "id": "Peer review"
+        },
+        {
+            "id": "Intertextuality"
+        },
+        {
+            "id": "Journalism ethics and standards"
+        },
+        {
+            "id": "Children's literature"
+        },
+        {
+            "id": "Young adult fiction"
+        },
+        {
+            "id": "Western canon"
+        },
+        {
+            "id": "Historical fiction"
+        },
+        {
+            "id": "Science fiction"
+        },
+        {
+            "id": "Romance novel"
+        },
+        {
+            "id": "Fan fiction"
+        },
+        {
+            "id": "Western fiction"
+        },
+        {
+            "id": "Apocalyptic and post-apocalyptic fiction"
+        },
+        {
+            "id": "Mystery fiction"
+        },
+        {
+            "id": "Popular history"
+        },
+        {
+            "id": "Biography"
+        },
+        {
+            "id": "Autobiography"
+        },
+        {
+            "id": "Memoir"
+        },
+        {
+            "id": "Self-help book"
+        },
+        {
+            "id": "Popular science"
+        },
+        {
+            "id": "Social issue"
+        },
+        {
+            "id": "Futures studies"
+        },
+        {
+            "id": "Prospectus (book)"
+        },
+        {
+            "id": "Press release"
+        },
+        {
+            "id": "Writing assessment"
+        },
+        {
+            "id": "Teacher evaluations"
+        },
+        {
+            "id": "Logogram"
+        },
+        {
+            "id": "Syllabary"
+        },
+        {
+            "id": "Alphabet"
+        },
+        {
+            "id": "Featural writing system"
+        },
+        {
+            "id": "Pictogram"
+        },
+        {
+            "id": "Word"
+        },
+        {
+            "id": "Morpheme"
+        },
+        {
+            "id": "Syllable"
+        },
+        {
+            "id": "Ideogram"
+        },
+        {
+            "id": "Chinese characters"
+        },
+        {
+            "id": "Languages of China"
+        },
+        {
+            "id": "Languages of Japan"
+        },
+        {
+            "id": "Korean language"
+        },
+        {
+            "id": "South Korea"
+        },
+        {
+            "id": "North Korea"
+        },
+        {
+            "id": "Hangul"
+        },
+        {
+            "id": "Cuneiform"
+        },
+        {
+            "id": "Mayan script"
+        },
+        {
+            "id": "Linear B"
+        },
+        {
+            "id": "Mycenaean Greek"
+        },
+        {
+            "id": "Cherokee syllabary"
+        },
+        {
+            "id": "Ndyuka language"
+        },
+        {
+            "id": "Creole language"
+        },
+        {
+            "id": "Suriname"
+        },
+        {
+            "id": "Vai language"
+        },
+        {
+            "id": "Liberia"
+        },
+        {
+            "id": "Consonant"
+        },
+        {
+            "id": "Vowel"
+        },
+        {
+            "id": "Phoneme"
+        },
+        {
+            "id": "Latin alphabet"
+        },
+        {
+            "id": "Greek alphabet"
+        },
+        {
+            "id": "Abjad"
+        },
+        {
+            "id": "Southeast Asia"
+        },
+        {
+            "id": "Abugida"
+        },
+        {
+            "id": "Ge\u02bdez script"
+        },
+        {
+            "id": "Canadian Aboriginal syllabics"
+        },
+        {
+            "id": "Labial consonant"
+        },
+        {
+            "id": "SignWriting"
+        },
+        {
+            "id": "Sign languages"
+        },
+        {
+            "id": "Secular icon"
+        },
+        {
+            "id": "J.R.R. Tolkien"
+        },
+        {
+            "id": "Tengwar"
+        },
+        {
+            "id": "Cascajal Block"
+        },
+        {
+            "id": "Veracruz"
+        },
+        {
+            "id": "Zapotec writing"
+        },
+        {
+            "id": "Olmec"
+        },
+        {
+            "id": "Pre-Columbian"
+        },
+        {
+            "id": "Maya script"
+        },
+        {
+            "id": "Central Asia"
+        },
+        {
+            "id": "Ashgabat"
+        },
+        {
+            "id": "Turkmenistan"
+        },
+        {
+            "id": "Oracle bone"
+        },
+        {
+            "id": "Plastron"
+        },
+        {
+            "id": "Scapula"
+        },
+        {
+            "id": "Shang dynasty"
+        },
+        {
+            "id": "Jiahu symbols"
+        },
+        {
+            "id": "Egyptian hieroglyph"
+        },
+        {
+            "id": "Narmer Palette"
+        },
+        {
+            "id": "Seth-Peribsen"
+        },
+        {
+            "id": "Scribe"
+        },
+        {
+            "id": "Middle Bronze Age alphabets"
+        },
+        {
+            "id": "Wadi el-Hol"
+        },
+        {
+            "id": "Hieroglyph"
+        },
+        {
+            "id": "Proto-Elamite"
+        },
+        {
+            "id": "Susa"
+        },
+        {
+            "id": "Linear Elamite"
+        },
+        {
+            "id": "Elamite cuneiform"
+        },
+        {
+            "id": "Akkadian language"
+        },
+        {
+            "id": "Cuneiform (script)"
+        },
+        {
+            "id": "Upper Palaeolithic"
+        },
+        {
+            "id": "Calendar"
+        },
+        {
+            "id": "Proto-writing"
+        },
+        {
+            "id": "Cretan hieroglyphs"
+        },
+        {
+            "id": "Crete"
+        },
+        {
+            "id": "Mycenaean Greece"
+        },
+        {
+            "id": "Linear A"
+        },
+        {
+            "id": "Aegean Islands"
+        },
+        {
+            "id": "Kea (island)"
+        },
+        {
+            "id": "Cythera (island)"
+        },
+        {
+            "id": "Milos"
+        },
+        {
+            "id": "Santorini"
+        },
+        {
+            "id": "Greek mainland"
+        },
+        {
+            "id": "Laconia"
+        },
+        {
+            "id": "Knossos"
+        },
+        {
+            "id": "Pylos"
+        },
+        {
+            "id": "Mycenae"
+        },
+        {
+            "id": "Thebes, Greece"
+        },
+        {
+            "id": "Tiryns"
+        },
+        {
+            "id": "Indus Valley civilization"
+        },
+        {
+            "id": "Pakistan"
+        },
+        {
+            "id": "North India"
+        },
+        {
+            "id": "Harappa"
+        },
+        {
+            "id": "Boustrophedonic"
+        },
+        {
+            "id": "Agglutinative"
+        },
+        {
+            "id": "Neolithic"
+        },
+        {
+            "id": "Bronze Age"
+        },
+        {
+            "id": "4th millennium BC"
+        },
+        {
+            "id": "Sumerian language"
+        },
+        {
+            "id": "Cuneiform script"
+        },
+        {
+            "id": "Egyptian hieroglyphs"
+        },
+        {
+            "id": "26th century BC"
+        },
+        {
+            "id": "Cultural diffusion"
+        },
+        {
+            "id": "Denise Schmandt-Besserat"
+        },
+        {
+            "id": "Mesopotamian"
+        },
+        {
+            "id": "Pictographs"
+        },
+        {
+            "id": "East Semitic"
+        },
+        {
+            "id": "Old Assyrian period"
+        },
+        {
+            "id": "Babylonia"
+        },
+        {
+            "id": "Elamite language"
+        },
+        {
+            "id": "Hattian language"
+        },
+        {
+            "id": "Hurrian language"
+        },
+        {
+            "id": "Hittite language"
+        },
+        {
+            "id": "Ugaritic language"
+        },
+        {
+            "id": "Old Persian language"
+        },
+        {
+            "id": "Aramaic language"
+        },
+        {
+            "id": "Neo-Assyrian Empire"
+        },
+        {
+            "id": "Proto-Sinaitic"
+        },
+        {
+            "id": "Proto-Canaanite"
+        },
+        {
+            "id": "Phoenician script"
+        },
+        {
+            "id": "Cumae alphabet"
+        },
+        {
+            "id": "Etruscan alphabet"
+        },
+        {
+            "id": "Rune"
+        },
+        {
+            "id": "Cyrillic script"
+        },
+        {
+            "id": "Bulgarian language"
+        },
+        {
+            "id": "Russian language"
+        },
+        {
+            "id": "Serbian language"
+        },
+        {
+            "id": "Aramaic script"
+        },
+        {
+            "id": "Hebrew script"
+        },
+        {
+            "id": "Arabic script"
+        },
+        {
+            "id": "Tifinagh"
+        },
+        {
+            "id": "Religious texts"
+        },
+        {
+            "id": "Gutenberg Bible"
+        },
+        {
+            "id": "Collective identity"
+        },
+        {
+            "id": "Belief"
+        },
+        {
+            "id": "Religious war"
+        },
+        {
+            "id": "Literacy"
+        },
+        {
+            "id": "Writing center"
+        },
+        {
+            "id": "Socioeconomic status"
+        },
+        {
+            "id": "World Literacy Foundation"
+        },
+        {
+            "id": "International Literacy Foundation"
+        },
+        {
+            "id": "Art"
+        },
+        {
+            "id": "Human behavior"
+        },
+        {
+            "id": "Visual art"
+        },
+        {
+            "id": "Aesthetic interpretation"
+        },
+        {
+            "id": "Pre-historic art"
+        },
+        {
+            "id": "Plato"
+        },
+        {
+            "id": "Epic poetry"
+        },
+        {
+            "id": "Commercial art"
+        },
+        {
+            "id": "Richard Wollheim"
+        },
+        {
+            "id": "Romanticism"
+        },
+        {
+            "id": "Homo erectus"
+        },
+        {
+            "id": "Riesenhirschknochen der Einhornh\u00f6hle"
+        },
+        {
+            "id": "Cave paintings"
+        },
+        {
+            "id": "Venus of Hohle Fels"
+        },
+        {
+            "id": "Byzantine art"
+        },
+        {
+            "id": "Renaissance art"
+        },
+        {
+            "id": "Islamic art"
+        },
+        {
+            "id": "Age of Enlightenment"
+        },
+        {
+            "id": "Impressionism"
+        },
+        {
+            "id": "Modernism"
+        },
+        {
+            "id": "The Origin of the Work of Art"
+        },
+        {
+            "id": "Silk Road"
+        },
+        {
+            "id": "Art medium"
+        },
+        {
+            "id": "Formalism (art)"
+        },
+        {
+            "id": "Authorial intent"
+        },
+        {
+            "id": "Post-structuralism"
+        },
+        {
+            "id": "Leonardo da Vinci"
+        },
+        {
+            "id": "Modern art"
+        },
+        {
+            "id": "L\u00e9vi-Strauss"
+        },
+        {
+            "id": "Artistic inspiration"
+        },
+        {
+            "id": "Mood (psychology)"
+        },
+        {
+            "id": "Art appreciation"
+        },
+        {
+            "id": "Ceramics of indigenous peoples of the Americas"
+        },
+        {
+            "id": "Printmaking"
+        },
+        {
+            "id": "Basel"
+        },
+        {
+            "id": "Public art"
+        },
+        {
+            "id": "Orleans Collection"
+        },
+        {
+            "id": "The Metropolitan Museum of Art"
+        },
+        {
+            "id": "Joseph Beuys"
+        },
+        {
+            "id": "Iconoclasm"
+        },
+        {
+            "id": "Pablo Picasso"
+        },
+        {
+            "id": "Realism (arts)"
+        },
+        {
+            "id": "Michael Fried"
+        },
+        {
+            "id": "Pop art"
+        },
+        {
+            "id": "Techne"
+        },
+        {
+            "id": "New Criticism"
+        },
+        {
+            "id": "William K. Wimsatt"
+        },
+        {
+            "id": "Affective fallacy"
+        },
+        {
+            "id": "Berys Gaut"
+        },
+        {
+            "id": "Linguistic turn"
+        },
+        {
+            "id": "Structuralism"
+        },
+        {
+            "id": "Cubist"
+        },
+        {
+            "id": "Anti-art"
+        },
+        {
+            "id": "Decorative arts"
+        },
+        {
+            "id": "Francisco Goya"
+        },
+        {
+            "id": "Zeitgeist"
+        },
+        {
+            "id": "Forgeries"
+        },
+        {
+            "id": "UN"
+        },
+        {
+            "id": "Non-fiction"
+        },
+        {
+            "id": "Etymology"
+        },
+        {
+            "id": "History of printing"
+        },
+        {
+            "id": "Western Europe"
+        },
+        {
+            "id": "Value judgment"
+        },
+        {
+            "id": "Australian Aboriginal culture"
+        },
+        {
+            "id": "Oral literature"
+        },
+        {
+            "id": "Poetry"
+        },
+        {
+            "id": "Vedic chant"
+        },
+        {
+            "id": "Homer"
+        },
+        {
+            "id": "Native North Americans"
+        },
+        {
+            "id": "African literature"
+        },
+        {
+            "id": "Rhetoric"
+        },
+        {
+            "id": "Ancient Egyptian literature"
+        },
+        {
+            "id": "Panchatantra"
+        },
+        {
+            "id": "Chinese classics"
+        },
+        {
+            "id": "Indian literature"
+        },
+        {
+            "id": "Mycenaean language"
+        },
+        {
+            "id": "Hebrew"
+        },
+        {
+            "id": "Roman literature"
+        },
+        {
+            "id": "Qur'an"
+        },
+        {
+            "id": "Mediaeval literature"
+        },
+        {
+            "id": "Renaissance"
+        },
+        {
+            "id": "Bi Sheng"
+        },
+        {
+            "id": "Incunable"
+        },
+        {
+            "id": "History of newspaper publishing"
+        },
+        {
+            "id": "Utilitarians"
+        },
+        {
+            "id": "Victor Hugo"
+        },
+        {
+            "id": "English poetry"
+        },
+        {
+            "id": "Nobel Prize in Literature"
+        },
+        {
+            "id": "Feminism"
+        },
+        {
+            "id": "Literary theory"
+        },
+        {
+            "id": "Literary fiction"
+        },
+        {
+            "id": "William Boyd (writer)"
+        },
+        {
+            "id": "Abraham Maslow"
+        },
+        {
+            "id": "Vedas"
+        },
+        {
+            "id": "King James Version"
+        },
+        {
+            "id": "Preaching"
+        },
+        {
+            "id": "Aristotle"
+        },
+        {
+            "id": "Prose"
+        },
+        {
+            "id": "Ancient Greece"
+        },
+        {
+            "id": "Latin"
+        },
+        {
+            "id": "Fictional"
+        },
+        {
+            "id": "Melville House Publishing"
+        },
+        {
+            "id": "Short story"
+        },
+        {
+            "id": "Graphic novel"
+        },
+        {
+            "id": "Electronic literature"
+        },
+        {
+            "id": "Nonfiction"
+        },
+        {
+            "id": "Drama"
+        },
+        {
+            "id": "Greek theatre"
+        },
+        {
+            "id": "Screenplay"
+        },
+        {
+            "id": "Law and literature"
+        },
+        {
+            "id": "Copyright"
+        },
+        {
+            "id": "Copyright law of the United States"
+        },
+        {
+            "id": "Copyright law of the European Union"
+        },
+        {
+            "id": "Copyright in Japan"
+        },
+        {
+            "id": "Sedition"
+        },
+        {
+            "id": "James Joyce"
+        },
+        {
+            "id": "Literary award"
+        },
+        {
+            "id": "Fantasy"
+        },
+        {
+            "id": "Alice's Adventures in Wonderland"
+        },
+        {
+            "id": "Classical mythology"
+        },
+        {
+            "id": "Empedocles"
+        },
+        {
+            "id": "India"
+        },
+        {
+            "id": "Middle East"
+        },
+        {
+            "id": "Baital Pachisi"
+        },
+        {
+            "id": "The Book of One Thousand and One Nights"
+        },
+        {
+            "id": "Fornaldarsaga"
+        },
+        {
+            "id": "Celtic mythology"
+        },
+        {
+            "id": "Wales"
+        },
+        {
+            "id": "Chivalric romance"
+        },
+        {
+            "id": "Alchemy"
+        },
+        {
+            "id": "Fairy tale"
+        },
+        {
+            "id": "Voltaire"
+        },
+        {
+            "id": "Daniel Defoe"
+        },
+        {
+            "id": "Elizabethan era"
+        },
+        {
+            "id": "Gothic novel"
+        },
+        {
+            "id": "Brothers Grimm"
+        },
+        {
+            "id": "Charles Nodier"
+        },
+        {
+            "id": "Victorian literature"
+        },
+        {
+            "id": "Hans Christian Andersen"
+        },
+        {
+            "id": "George MacDonald"
+        },
+        {
+            "id": "William Morris"
+        },
+        {
+            "id": "Edgar Allan Poe"
+        },
+        {
+            "id": "H. Rider Haggard"
+        },
+        {
+            "id": "Juvenile fantasy"
+        },
+        {
+            "id": "Der Orchideengarten"
+        },
+        {
+            "id": "H. P. Lovecraft"
+        },
+        {
+            "id": "Lord Dunsany"
+        },
+        {
+            "id": "Stella Benson"
+        },
+        {
+            "id": "Herbert Read"
+        },
+        {
+            "id": "The Sword in the Stone (novel)"
+        },
+        {
+            "id": "Mervyn Peake"
+        },
+        {
+            "id": "Tolkien's influence on fantasy"
+        },
+        {
+            "id": "The New York Times Best Seller list"
+        },
+        {
+            "id": "Folklore"
+        },
+        {
+            "id": "Ursula K. Le Guin"
+        },
+        {
+            "id": "Michael Moorcock"
+        },
+        {
+            "id": "Bloomsbury Publishing"
+        },
+        {
+            "id": "Harry Potter and the Philosopher's Stone"
+        },
+        {
+            "id": "Harry Potter (film series)"
+        },
+        {
+            "id": "Pottermore"
+        },
+        {
+            "id": "Harry Potter (character)"
+        },
+        {
+            "id": "Hogwarts"
+        },
+        {
+            "id": "Harry Potter and the Chamber of Secrets"
+        },
+        {
+            "id": "Harry Potter and the Prisoner of Azkaban"
+        },
+        {
+            "id": "Harry Potter and the Goblet of Fire"
+        },
+        {
+            "id": "Harry Potter and the Order of the Phoenix"
+        },
+        {
+            "id": "Harry Potter and the Half-Blood Prince"
+        },
+        {
+            "id": "Harry Potter and the Deathly Hallows"
+        },
+        {
+            "id": "James Sirius Potter"
+        },
+        {
+            "id": "School story"
+        },
+        {
+            "id": "Muggles"
+        },
+        {
+            "id": "Summer term"
+        },
+        {
+            "id": "Arthurian myth"
+        },
+        {
+            "id": "Allegory"
+        },
+        {
+            "id": "Magical creatures in Harry Potter"
+        },
+        {
+            "id": "Politics of Harry Potter"
+        },
+        {
+            "id": "Manchester"
+        },
+        {
+            "id": "Manuscript"
+        },
+        {
+            "id": "Scholastic Press"
+        },
+        {
+            "id": "Audiobook"
+        },
+        {
+            "id": "Viktor Golyshev"
+        },
+        {
+            "id": "American English"
+        },
+        {
+            "id": "Thomas Taylor (artist)"
+        },
+        {
+            "id": "Mary GrandPr\u00e9"
+        },
+        {
+            "id": "Film adaptation"
+        },
+        {
+            "id": "The New York Times"
+        },
+        {
+            "id": "The Scotsman"
+        },
+        {
+            "id": "Harold Bloom"
+        },
+        {
+            "id": "Michael Rosen"
+        },
+        {
+            "id": "The Times"
+        },
+        {
+            "id": "The Daily Telegraph"
+        },
+        {
+            "id": "Slate (magazine)"
+        },
+        {
+            "id": "J. R. R. Tolkien"
+        },
+        {
+            "id": "Patriarchal"
+        },
+        {
+            "id": "House-elves"
+        },
+        {
+            "id": "Lawsuit"
+        },
+        {
+            "id": "Wicca"
+        },
+        {
+            "id": "Intellectual snobbery"
+        },
+        {
+            "id": "Diana Wynne Jones"
+        },
+        {
+            "id": "Enid Blyton"
+        },
+        {
+            "id": "Oxford English Dictionary"
+        },
+        {
+            "id": "National Endowment for the Arts"
+        },
+        {
+            "id": "Nestl\u00e9 Smarties Book Prize"
+        },
+        {
+            "id": "James Bond"
+        },
+        {
+            "id": "Great Britain commemorative stamps 2000\u20132009"
+        },
+        {
+            "id": "Warner Bros."
+        },
+        {
+            "id": "Chris Columbus (filmmaker)"
+        },
+        {
+            "id": "Fantastic Beasts and Where to Find Them (film)"
+        },
+        {
+            "id": "Cluedo"
+        },
+        {
+            "id": "Electronic Arts"
+        },
+        {
+            "id": "Traveller's Tales"
+        },
+        {
+            "id": "HBO Max"
+        },
+        {
+            "id": "Max (streaming service)"
+        },
+        {
+            "id": "Islands of Adventure"
+        },
+        {
+            "id": "Universal Studios Florida"
+        },
+        {
+            "id": "Warner Bros. Studios, Leavesden"
+        },
+        {
+            "id": "Harry Potter universe"
+        },
+        {
+            "id": "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists"
+        },
+        {
+            "id": "The Worst Witch"
+        }
+    ],
+    "links": [
+        {
+            "source": "Harry Potter",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Bloomsbury Publishing"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Philosopher's Stone"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter (film series)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Pottermore"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter (character)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Hogwarts"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Chamber of Secrets"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Prisoner of Azkaban"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Goblet of Fire"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Order of the Phoenix"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Half-Blood Prince"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter and the Deathly Hallows"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "James Sirius Potter"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "School story"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Muggles"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Summer term"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Arthurian myth"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Allegory"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Magical creatures in Harry Potter"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Politics of Harry Potter"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Manchester"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Manuscript"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Scholastic Press"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Audiobook"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Korean language"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Viktor Golyshev"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "American English"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Thomas Taylor (artist)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Mary GrandPr\u00e9"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Film adaptation"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "The New York Times"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "The Scotsman"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harold Bloom"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Michael Rosen"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "The Times"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "The Daily Telegraph"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Slate (magazine)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "J. R. R. Tolkien"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Patriarchal"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "House-elves"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Lawsuit"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Wicca"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Intellectual snobbery"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Realism (arts)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Diana Wynne Jones"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Enid Blyton"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Oxford English Dictionary"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Literacy"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "National Endowment for the Arts"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Fan fiction"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Nestl\u00e9 Smarties Book Prize"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "James Bond"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Great Britain commemorative stamps 2000\u20132009"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Warner Bros."
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Chris Columbus (filmmaker)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Fantastic Beasts and Where to Find Them (film)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Cluedo"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Electronic Arts"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Traveller's Tales"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "HBO Max"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Max (streaming service)"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Islands of Adventure"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Universal Studios Florida"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Warner Bros. Studios, Leavesden"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Harry Potter universe"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists"
+        },
+        {
+            "source": "Harry Potter",
+            "target": "The Worst Witch"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Writing"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Fantasy"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Alice's Adventures in Wonderland"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Classical mythology"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Plato"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Empedocles"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "India"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Middle East"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Baital Pachisi"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "The Book of One Thousand and One Nights"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Fornaldarsaga"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Celtic mythology"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Wales"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Chivalric romance"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Renaissance"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Alchemy"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Fairy tale"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Voltaire"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Daniel Defoe"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Elizabethan era"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Romanticism"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Gothic novel"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Brothers Grimm"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Charles Nodier"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Victorian literature"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Hans Christian Andersen"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "George MacDonald"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "William Morris"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Edgar Allan Poe"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "H. Rider Haggard"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Juvenile fantasy"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Der Orchideengarten"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "H. P. Lovecraft"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Lord Dunsany"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Stella Benson"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Herbert Read"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "The Sword in the Stone (novel)"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Mervyn Peake"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Tolkien's influence on fantasy"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "The New York Times Best Seller list"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Folklore"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Ursula K. Le Guin"
+        },
+        {
+            "source": "Fantasy literature",
+            "target": "Michael Moorcock"
+        },
+        {
+            "source": "Literature",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Writing"
+        },
+        {
+            "source": "Literature",
+            "target": "Art"
+        },
+        {
+            "source": "Literature",
+            "target": "Non-fiction"
+        },
+        {
+            "source": "Literature",
+            "target": "Etymology"
+        },
+        {
+            "source": "Literature",
+            "target": "History of printing"
+        },
+        {
+            "source": "Literature",
+            "target": "Western Europe"
+        },
+        {
+            "source": "Literature",
+            "target": "Value judgment"
+        },
+        {
+            "source": "Literature",
+            "target": "Australian Aboriginal culture"
+        },
+        {
+            "source": "Literature",
+            "target": "Oral literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Poetry"
+        },
+        {
+            "source": "Literature",
+            "target": "Vedic chant"
+        },
+        {
+            "source": "Literature",
+            "target": "Homer"
+        },
+        {
+            "source": "Literature",
+            "target": "Native North Americans"
+        },
+        {
+            "source": "Literature",
+            "target": "African literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Rhetoric"
+        },
+        {
+            "source": "Literature",
+            "target": "Mesopotamia"
+        },
+        {
+            "source": "Literature",
+            "target": "Ancient Egyptian literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Panchatantra"
+        },
+        {
+            "source": "Literature",
+            "target": "Chinese classics"
+        },
+        {
+            "source": "Literature",
+            "target": "Indian literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Mycenaean language"
+        },
+        {
+            "source": "Literature",
+            "target": "Hebrew"
+        },
+        {
+            "source": "Literature",
+            "target": "Roman literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Qur'an"
+        },
+        {
+            "source": "Literature",
+            "target": "Mediaeval literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Renaissance"
+        },
+        {
+            "source": "Literature",
+            "target": "History of writing"
+        },
+        {
+            "source": "Literature",
+            "target": "Bi Sheng"
+        },
+        {
+            "source": "Literature",
+            "target": "Incunable"
+        },
+        {
+            "source": "Literature",
+            "target": "History of newspaper publishing"
+        },
+        {
+            "source": "Literature",
+            "target": "Utilitarians"
+        },
+        {
+            "source": "Literature",
+            "target": "Western canon"
+        },
+        {
+            "source": "Literature",
+            "target": "Victor Hugo"
+        },
+        {
+            "source": "Literature",
+            "target": "English poetry"
+        },
+        {
+            "source": "Literature",
+            "target": "Nobel Prize in Literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Feminism"
+        },
+        {
+            "source": "Literature",
+            "target": "Children's literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Literary theory"
+        },
+        {
+            "source": "Literature",
+            "target": "Literary fiction"
+        },
+        {
+            "source": "Literature",
+            "target": "William Boyd (writer)"
+        },
+        {
+            "source": "Literature",
+            "target": "Abraham Maslow"
+        },
+        {
+            "source": "Literature",
+            "target": "Vedas"
+        },
+        {
+            "source": "Literature",
+            "target": "King James Version"
+        },
+        {
+            "source": "Literature",
+            "target": "Preaching"
+        },
+        {
+            "source": "Literature",
+            "target": "Aristotle"
+        },
+        {
+            "source": "Literature",
+            "target": "Prose"
+        },
+        {
+            "source": "Literature",
+            "target": "Ancient Greece"
+        },
+        {
+            "source": "Literature",
+            "target": "Latin"
+        },
+        {
+            "source": "Literature",
+            "target": "Fictional"
+        },
+        {
+            "source": "Literature",
+            "target": "Melville House Publishing"
+        },
+        {
+            "source": "Literature",
+            "target": "Short story"
+        },
+        {
+            "source": "Literature",
+            "target": "Graphic novel"
+        },
+        {
+            "source": "Literature",
+            "target": "Electronic literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Nonfiction"
+        },
+        {
+            "source": "Literature",
+            "target": "Drama"
+        },
+        {
+            "source": "Literature",
+            "target": "Greek theatre"
+        },
+        {
+            "source": "Literature",
+            "target": "Screenplay"
+        },
+        {
+            "source": "Literature",
+            "target": "Law and literature"
+        },
+        {
+            "source": "Literature",
+            "target": "Copyright"
+        },
+        {
+            "source": "Literature",
+            "target": "Copyright law of the United States"
+        },
+        {
+            "source": "Literature",
+            "target": "Copyright law of the European Union"
+        },
+        {
+            "source": "Literature",
+            "target": "Copyright in Japan"
+        },
+        {
+            "source": "Literature",
+            "target": "Sedition"
+        },
+        {
+            "source": "Literature",
+            "target": "James Joyce"
+        },
+        {
+            "source": "Literature",
+            "target": "Literary award"
+        },
+        {
+            "source": "Writing",
+            "target": "Literature"
+        },
+        {
+            "source": "Writing",
+            "target": "Cognition"
+        },
+        {
+            "source": "Writing",
+            "target": "Social"
+        },
+        {
+            "source": "Writing",
+            "target": "Neuropsychology"
+        },
+        {
+            "source": "Writing",
+            "target": "Writing process"
+        },
+        {
+            "source": "Writing",
+            "target": "Writing system"
+        },
+        {
+            "source": "Writing",
+            "target": "Language"
+        },
+        {
+            "source": "Writing",
+            "target": "Semantics"
+        },
+        {
+            "source": "Writing",
+            "target": "Lexicon"
+        },
+        {
+            "source": "Writing",
+            "target": "Syntax"
+        },
+        {
+            "source": "Writing",
+            "target": "Phonology"
+        },
+        {
+            "source": "Writing",
+            "target": "Morphology (linguistics)"
+        },
+        {
+            "source": "Writing",
+            "target": "Written language"
+        },
+        {
+            "source": "Writing",
+            "target": "Text (literary theory)"
+        },
+        {
+            "source": "Writing",
+            "target": "Handwriting"
+        },
+        {
+            "source": "Writing",
+            "target": "Printing press"
+        },
+        {
+            "source": "Writing",
+            "target": "Digital data"
+        },
+        {
+            "source": "Writing",
+            "target": "Symbol"
+        },
+        {
+            "source": "Writing",
+            "target": "Computer language"
+        },
+        {
+            "source": "Writing",
+            "target": "Spoken language"
+        },
+        {
+            "source": "Writing",
+            "target": "Letter (message)"
+        },
+        {
+            "source": "Writing",
+            "target": "Libraries"
+        },
+        {
+            "source": "Writing",
+            "target": "Finger"
+        },
+        {
+            "source": "Writing",
+            "target": "Stylus"
+        },
+        {
+            "source": "Writing",
+            "target": "Quill"
+        },
+        {
+            "source": "Writing",
+            "target": "Ink brush"
+        },
+        {
+            "source": "Writing",
+            "target": "Pencil"
+        },
+        {
+            "source": "Writing",
+            "target": "Pen"
+        },
+        {
+            "source": "Writing",
+            "target": "Lithography"
+        },
+        {
+            "source": "Writing",
+            "target": "Stone tablet"
+        },
+        {
+            "source": "Writing",
+            "target": "Clay tablet"
+        },
+        {
+            "source": "Writing",
+            "target": "Papyrus"
+        },
+        {
+            "source": "Writing",
+            "target": "Wax tablet"
+        },
+        {
+            "source": "Writing",
+            "target": "Vellum"
+        },
+        {
+            "source": "Writing",
+            "target": "Parchment"
+        },
+        {
+            "source": "Writing",
+            "target": "Paper"
+        },
+        {
+            "source": "Writing",
+            "target": "Intaglio printing"
+        },
+        {
+            "source": "Writing",
+            "target": "Blackboard"
+        },
+        {
+            "source": "Writing",
+            "target": "Porcelain"
+        },
+        {
+            "source": "Writing",
+            "target": "Whiteboard"
+        },
+        {
+            "source": "Writing",
+            "target": "Quipu"
+        },
+        {
+            "source": "Writing",
+            "target": "Graffiti"
+        },
+        {
+            "source": "Writing",
+            "target": "Tattoo"
+        },
+        {
+            "source": "Writing",
+            "target": "Typewriter"
+        },
+        {
+            "source": "Writing",
+            "target": "Word processor"
+        },
+        {
+            "source": "Writing",
+            "target": "Multiple-document interface"
+        },
+        {
+            "source": "Writing",
+            "target": "Comparison of note-taking software"
+        },
+        {
+            "source": "Writing",
+            "target": "World Wide Web"
+        },
+        {
+            "source": "Writing",
+            "target": "Search engine"
+        },
+        {
+            "source": "Writing",
+            "target": "Wiki"
+        },
+        {
+            "source": "Writing",
+            "target": "E-mail"
+        },
+        {
+            "source": "Writing",
+            "target": "User interface"
+        },
+        {
+            "source": "Writing",
+            "target": "Operating system"
+        },
+        {
+            "source": "Writing",
+            "target": "Input device"
+        },
+        {
+            "source": "Writing",
+            "target": "Natural language processing"
+        },
+        {
+            "source": "Writing",
+            "target": "Natural language generation"
+        },
+        {
+            "source": "Writing",
+            "target": "Software"
+        },
+        {
+            "source": "Writing",
+            "target": "Machine translation"
+        },
+        {
+            "source": "Writing",
+            "target": "Development of writing"
+        },
+        {
+            "source": "Writing",
+            "target": "History"
+        },
+        {
+            "source": "Writing",
+            "target": "Culture"
+        },
+        {
+            "source": "Writing",
+            "target": "Curriculum"
+        },
+        {
+            "source": "Writing",
+            "target": "The Canon of Medicine"
+        },
+        {
+            "source": "Writing",
+            "target": "Literary canon"
+        },
+        {
+            "source": "Writing",
+            "target": "Legal systems"
+        },
+        {
+            "source": "Writing",
+            "target": "Census"
+        },
+        {
+            "source": "Writing",
+            "target": "Contract"
+        },
+        {
+            "source": "Writing",
+            "target": "Deed"
+        },
+        {
+            "source": "Writing",
+            "target": "Tax"
+        },
+        {
+            "source": "Writing",
+            "target": "Trade agreement"
+        },
+        {
+            "source": "Writing",
+            "target": "Treaty"
+        },
+        {
+            "source": "Writing",
+            "target": "H.G. Wells"
+        },
+        {
+            "source": "Writing",
+            "target": "City-state"
+        },
+        {
+            "source": "Writing",
+            "target": "Empire"
+        },
+        {
+            "source": "Writing",
+            "target": "Charles Bazerman"
+        },
+        {
+            "source": "Writing",
+            "target": "Mesopotamia"
+        },
+        {
+            "source": "Writing",
+            "target": "Ancient Egypt"
+        },
+        {
+            "source": "Writing",
+            "target": "Mesoamerica"
+        },
+        {
+            "source": "Writing",
+            "target": "Religious text"
+        },
+        {
+            "source": "Writing",
+            "target": "Models of scientific inquiry"
+        },
+        {
+            "source": "Writing",
+            "target": "Knowledge management"
+        },
+        {
+            "source": "Writing",
+            "target": "History of writing"
+        },
+        {
+            "source": "Writing",
+            "target": "Soft systems methodology"
+        },
+        {
+            "source": "Writing",
+            "target": "Memory"
+        },
+        {
+            "source": "Writing",
+            "target": "Time management"
+        },
+        {
+            "source": "Writing",
+            "target": "Recipe"
+        },
+        {
+            "source": "Writing",
+            "target": "Logbook"
+        },
+        {
+            "source": "Writing",
+            "target": "Map"
+        },
+        {
+            "source": "Writing",
+            "target": "Ritual"
+        },
+        {
+            "source": "Writing",
+            "target": "Essay"
+        },
+        {
+            "source": "Writing",
+            "target": "Monograph"
+        },
+        {
+            "source": "Writing",
+            "target": "Broadside (printing)"
+        },
+        {
+            "source": "Writing",
+            "target": "Plan"
+        },
+        {
+            "source": "Writing",
+            "target": "Issue tracking system"
+        },
+        {
+            "source": "Writing",
+            "target": "Petition"
+        },
+        {
+            "source": "Writing",
+            "target": "Manifesto"
+        },
+        {
+            "source": "Writing",
+            "target": "Storytelling"
+        },
+        {
+            "source": "Writing",
+            "target": "Kinship"
+        },
+        {
+            "source": "Writing",
+            "target": "Business correspondence"
+        },
+        {
+            "source": "Writing",
+            "target": "Activism"
+        },
+        {
+            "source": "Writing",
+            "target": "Life writing"
+        },
+        {
+            "source": "Writing",
+            "target": "Diary"
+        },
+        {
+            "source": "Writing",
+            "target": "Social media"
+        },
+        {
+            "source": "Writing",
+            "target": "Developed country"
+        },
+        {
+            "source": "Writing",
+            "target": "Lawyer"
+        },
+        {
+            "source": "Writing",
+            "target": "Accounting"
+        },
+        {
+            "source": "Writing",
+            "target": "Software design"
+        },
+        {
+            "source": "Writing",
+            "target": "Human resource management"
+        },
+        {
+            "source": "Writing",
+            "target": "Workflow"
+        },
+        {
+            "source": "Writing",
+            "target": "Records management"
+        },
+        {
+            "source": "Writing",
+            "target": "Incident report"
+        },
+        {
+            "source": "Writing",
+            "target": "Inventory"
+        },
+        {
+            "source": "Writing",
+            "target": "Sales"
+        },
+        {
+            "source": "Writing",
+            "target": "Timesheet"
+        },
+        {
+            "source": "Writing",
+            "target": "Drayage"
+        },
+        {
+            "source": "Writing",
+            "target": "Constitution"
+        },
+        {
+            "source": "Writing",
+            "target": "Legislature"
+        },
+        {
+            "source": "Writing",
+            "target": "Executive (government)"
+        },
+        {
+            "source": "Writing",
+            "target": "Governance"
+        },
+        {
+            "source": "Writing",
+            "target": "Policy"
+        },
+        {
+            "source": "Writing",
+            "target": "International treaty"
+        },
+        {
+            "source": "Writing",
+            "target": "Budget"
+        },
+        {
+            "source": "Writing",
+            "target": "Economic"
+        },
+        {
+            "source": "Writing",
+            "target": "Goal"
+        },
+        {
+            "source": "Writing",
+            "target": "Value (ethics)"
+        },
+        {
+            "source": "Writing",
+            "target": "Problem solving"
+        },
+        {
+            "source": "Writing",
+            "target": "Corporate governance"
+        },
+        {
+            "source": "Writing",
+            "target": "Legal writing"
+        },
+        {
+            "source": "Writing",
+            "target": "Academic discipline"
+        },
+        {
+            "source": "Writing",
+            "target": "Research"
+        },
+        {
+            "source": "Writing",
+            "target": "Academic authorship"
+        },
+        {
+            "source": "Writing",
+            "target": "Citation"
+        },
+        {
+            "source": "Writing",
+            "target": "Academic journal"
+        },
+        {
+            "source": "Writing",
+            "target": "University press"
+        },
+        {
+            "source": "Writing",
+            "target": "Lab notebook"
+        },
+        {
+            "source": "Writing",
+            "target": "Preprint"
+        },
+        {
+            "source": "Writing",
+            "target": "Peer review"
+        },
+        {
+            "source": "Writing",
+            "target": "Intertextuality"
+        },
+        {
+            "source": "Writing",
+            "target": "Journalism ethics and standards"
+        },
+        {
+            "source": "Writing",
+            "target": "Children's literature"
+        },
+        {
+            "source": "Writing",
+            "target": "Young adult fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Western canon"
+        },
+        {
+            "source": "Writing",
+            "target": "Historical fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Science fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Romance novel"
+        },
+        {
+            "source": "Writing",
+            "target": "Fan fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Western fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Apocalyptic and post-apocalyptic fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Mystery fiction"
+        },
+        {
+            "source": "Writing",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Writing",
+            "target": "Popular history"
+        },
+        {
+            "source": "Writing",
+            "target": "Biography"
+        },
+        {
+            "source": "Writing",
+            "target": "Autobiography"
+        },
+        {
+            "source": "Writing",
+            "target": "Memoir"
+        },
+        {
+            "source": "Writing",
+            "target": "Self-help book"
+        },
+        {
+            "source": "Writing",
+            "target": "Popular science"
+        },
+        {
+            "source": "Writing",
+            "target": "Social issue"
+        },
+        {
+            "source": "Writing",
+            "target": "Futures studies"
+        },
+        {
+            "source": "Writing",
+            "target": "Prospectus (book)"
+        },
+        {
+            "source": "Writing",
+            "target": "Press release"
+        },
+        {
+            "source": "Writing",
+            "target": "Writing assessment"
+        },
+        {
+            "source": "Writing",
+            "target": "Teacher evaluations"
+        },
+        {
+            "source": "Writing",
+            "target": "Logogram"
+        },
+        {
+            "source": "Writing",
+            "target": "Syllabary"
+        },
+        {
+            "source": "Writing",
+            "target": "Alphabet"
+        },
+        {
+            "source": "Writing",
+            "target": "Featural writing system"
+        },
+        {
+            "source": "Writing",
+            "target": "Pictogram"
+        },
+        {
+            "source": "Writing",
+            "target": "Word"
+        },
+        {
+            "source": "Writing",
+            "target": "Morpheme"
+        },
+        {
+            "source": "Writing",
+            "target": "Syllable"
+        },
+        {
+            "source": "Writing",
+            "target": "Ideogram"
+        },
+        {
+            "source": "Writing",
+            "target": "Chinese characters"
+        },
+        {
+            "source": "Writing",
+            "target": "Languages of China"
+        },
+        {
+            "source": "Writing",
+            "target": "Languages of Japan"
+        },
+        {
+            "source": "Writing",
+            "target": "Korean language"
+        },
+        {
+            "source": "Writing",
+            "target": "South Korea"
+        },
+        {
+            "source": "Writing",
+            "target": "North Korea"
+        },
+        {
+            "source": "Writing",
+            "target": "Hangul"
+        },
+        {
+            "source": "Writing",
+            "target": "Cuneiform"
+        },
+        {
+            "source": "Writing",
+            "target": "Mayan script"
+        },
+        {
+            "source": "Writing",
+            "target": "Linear B"
+        },
+        {
+            "source": "Writing",
+            "target": "Mycenaean Greek"
+        },
+        {
+            "source": "Writing",
+            "target": "Cherokee syllabary"
+        },
+        {
+            "source": "Writing",
+            "target": "Ndyuka language"
+        },
+        {
+            "source": "Writing",
+            "target": "Creole language"
+        },
+        {
+            "source": "Writing",
+            "target": "Suriname"
+        },
+        {
+            "source": "Writing",
+            "target": "Vai language"
+        },
+        {
+            "source": "Writing",
+            "target": "Liberia"
+        },
+        {
+            "source": "Writing",
+            "target": "Consonant"
+        },
+        {
+            "source": "Writing",
+            "target": "Vowel"
+        },
+        {
+            "source": "Writing",
+            "target": "Phoneme"
+        },
+        {
+            "source": "Writing",
+            "target": "Latin alphabet"
+        },
+        {
+            "source": "Writing",
+            "target": "Greek alphabet"
+        },
+        {
+            "source": "Writing",
+            "target": "Abjad"
+        },
+        {
+            "source": "Writing",
+            "target": "Southeast Asia"
+        },
+        {
+            "source": "Writing",
+            "target": "Abugida"
+        },
+        {
+            "source": "Writing",
+            "target": "Ge\u02bdez script"
+        },
+        {
+            "source": "Writing",
+            "target": "Canadian Aboriginal syllabics"
+        },
+        {
+            "source": "Writing",
+            "target": "Labial consonant"
+        },
+        {
+            "source": "Writing",
+            "target": "SignWriting"
+        },
+        {
+            "source": "Writing",
+            "target": "Sign languages"
+        },
+        {
+            "source": "Writing",
+            "target": "Secular icon"
+        },
+        {
+            "source": "Writing",
+            "target": "J.R.R. Tolkien"
+        },
+        {
+            "source": "Writing",
+            "target": "Tengwar"
+        },
+        {
+            "source": "Writing",
+            "target": "Cascajal Block"
+        },
+        {
+            "source": "Writing",
+            "target": "Veracruz"
+        },
+        {
+            "source": "Writing",
+            "target": "Zapotec writing"
+        },
+        {
+            "source": "Writing",
+            "target": "Olmec"
+        },
+        {
+            "source": "Writing",
+            "target": "Pre-Columbian"
+        },
+        {
+            "source": "Writing",
+            "target": "Maya script"
+        },
+        {
+            "source": "Writing",
+            "target": "Central Asia"
+        },
+        {
+            "source": "Writing",
+            "target": "Ashgabat"
+        },
+        {
+            "source": "Writing",
+            "target": "Turkmenistan"
+        },
+        {
+            "source": "Writing",
+            "target": "Oracle bone"
+        },
+        {
+            "source": "Writing",
+            "target": "Plastron"
+        },
+        {
+            "source": "Writing",
+            "target": "Scapula"
+        },
+        {
+            "source": "Writing",
+            "target": "Shang dynasty"
+        },
+        {
+            "source": "Writing",
+            "target": "Jiahu symbols"
+        },
+        {
+            "source": "Writing",
+            "target": "Egyptian hieroglyph"
+        },
+        {
+            "source": "Writing",
+            "target": "Narmer Palette"
+        },
+        {
+            "source": "Writing",
+            "target": "Seth-Peribsen"
+        },
+        {
+            "source": "Writing",
+            "target": "Scribe"
+        },
+        {
+            "source": "Writing",
+            "target": "Middle Bronze Age alphabets"
+        },
+        {
+            "source": "Writing",
+            "target": "Wadi el-Hol"
+        },
+        {
+            "source": "Writing",
+            "target": "Hieroglyph"
+        },
+        {
+            "source": "Writing",
+            "target": "Proto-Elamite"
+        },
+        {
+            "source": "Writing",
+            "target": "Susa"
+        },
+        {
+            "source": "Writing",
+            "target": "Linear Elamite"
+        },
+        {
+            "source": "Writing",
+            "target": "Elamite cuneiform"
+        },
+        {
+            "source": "Writing",
+            "target": "Akkadian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Cuneiform (script)"
+        },
+        {
+            "source": "Writing",
+            "target": "Upper Palaeolithic"
+        },
+        {
+            "source": "Writing",
+            "target": "Calendar"
+        },
+        {
+            "source": "Writing",
+            "target": "Proto-writing"
+        },
+        {
+            "source": "Writing",
+            "target": "Cretan hieroglyphs"
+        },
+        {
+            "source": "Writing",
+            "target": "Crete"
+        },
+        {
+            "source": "Writing",
+            "target": "Mycenaean Greece"
+        },
+        {
+            "source": "Writing",
+            "target": "Linear A"
+        },
+        {
+            "source": "Writing",
+            "target": "Aegean Islands"
+        },
+        {
+            "source": "Writing",
+            "target": "Kea (island)"
+        },
+        {
+            "source": "Writing",
+            "target": "Cythera (island)"
+        },
+        {
+            "source": "Writing",
+            "target": "Milos"
+        },
+        {
+            "source": "Writing",
+            "target": "Santorini"
+        },
+        {
+            "source": "Writing",
+            "target": "Greek mainland"
+        },
+        {
+            "source": "Writing",
+            "target": "Laconia"
+        },
+        {
+            "source": "Writing",
+            "target": "Knossos"
+        },
+        {
+            "source": "Writing",
+            "target": "Pylos"
+        },
+        {
+            "source": "Writing",
+            "target": "Mycenae"
+        },
+        {
+            "source": "Writing",
+            "target": "Thebes, Greece"
+        },
+        {
+            "source": "Writing",
+            "target": "Tiryns"
+        },
+        {
+            "source": "Writing",
+            "target": "Indus Valley civilization"
+        },
+        {
+            "source": "Writing",
+            "target": "Pakistan"
+        },
+        {
+            "source": "Writing",
+            "target": "North India"
+        },
+        {
+            "source": "Writing",
+            "target": "Harappa"
+        },
+        {
+            "source": "Writing",
+            "target": "Boustrophedonic"
+        },
+        {
+            "source": "Writing",
+            "target": "Agglutinative"
+        },
+        {
+            "source": "Writing",
+            "target": "Neolithic"
+        },
+        {
+            "source": "Writing",
+            "target": "Bronze Age"
+        },
+        {
+            "source": "Writing",
+            "target": "4th millennium BC"
+        },
+        {
+            "source": "Writing",
+            "target": "Sumerian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Cuneiform script"
+        },
+        {
+            "source": "Writing",
+            "target": "Egyptian hieroglyphs"
+        },
+        {
+            "source": "Writing",
+            "target": "26th century BC"
+        },
+        {
+            "source": "Writing",
+            "target": "Cultural diffusion"
+        },
+        {
+            "source": "Writing",
+            "target": "Denise Schmandt-Besserat"
+        },
+        {
+            "source": "Writing",
+            "target": "Mesopotamian"
+        },
+        {
+            "source": "Writing",
+            "target": "Pictographs"
+        },
+        {
+            "source": "Writing",
+            "target": "East Semitic"
+        },
+        {
+            "source": "Writing",
+            "target": "Old Assyrian period"
+        },
+        {
+            "source": "Writing",
+            "target": "Babylonia"
+        },
+        {
+            "source": "Writing",
+            "target": "Elamite language"
+        },
+        {
+            "source": "Writing",
+            "target": "Hattian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Hurrian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Hittite language"
+        },
+        {
+            "source": "Writing",
+            "target": "Ugaritic language"
+        },
+        {
+            "source": "Writing",
+            "target": "Old Persian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Aramaic language"
+        },
+        {
+            "source": "Writing",
+            "target": "Neo-Assyrian Empire"
+        },
+        {
+            "source": "Writing",
+            "target": "Proto-Sinaitic"
+        },
+        {
+            "source": "Writing",
+            "target": "Proto-Canaanite"
+        },
+        {
+            "source": "Writing",
+            "target": "Phoenician script"
+        },
+        {
+            "source": "Writing",
+            "target": "Cumae alphabet"
+        },
+        {
+            "source": "Writing",
+            "target": "Etruscan alphabet"
+        },
+        {
+            "source": "Writing",
+            "target": "Rune"
+        },
+        {
+            "source": "Writing",
+            "target": "Cyrillic script"
+        },
+        {
+            "source": "Writing",
+            "target": "Bulgarian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Russian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Serbian language"
+        },
+        {
+            "source": "Writing",
+            "target": "Aramaic script"
+        },
+        {
+            "source": "Writing",
+            "target": "Hebrew script"
+        },
+        {
+            "source": "Writing",
+            "target": "Arabic script"
+        },
+        {
+            "source": "Writing",
+            "target": "Tifinagh"
+        },
+        {
+            "source": "Writing",
+            "target": "Religious texts"
+        },
+        {
+            "source": "Writing",
+            "target": "Gutenberg Bible"
+        },
+        {
+            "source": "Writing",
+            "target": "Collective identity"
+        },
+        {
+            "source": "Writing",
+            "target": "Belief"
+        },
+        {
+            "source": "Writing",
+            "target": "Religious war"
+        },
+        {
+            "source": "Writing",
+            "target": "Literacy"
+        },
+        {
+            "source": "Writing",
+            "target": "Writing center"
+        },
+        {
+            "source": "Writing",
+            "target": "Socioeconomic status"
+        },
+        {
+            "source": "Writing",
+            "target": "World Literacy Foundation"
+        },
+        {
+            "source": "Writing",
+            "target": "International Literacy Foundation"
+        },
+        {
+            "source": "Cognition",
+            "target": "Writing"
+        },
+        {
+            "source": "Social",
+            "target": "Writing"
+        },
+        {
+            "source": "Neuropsychology",
+            "target": "Writing"
+        },
+        {
+            "source": "Writing process",
+            "target": "Writing"
+        },
+        {
+            "source": "Writing system",
+            "target": "Writing"
+        },
+        {
+            "source": "Language",
+            "target": "Writing"
+        },
+        {
+            "source": "Semantics",
+            "target": "Writing"
+        },
+        {
+            "source": "Lexicon",
+            "target": "Writing"
+        },
+        {
+            "source": "Syntax",
+            "target": "Writing"
+        },
+        {
+            "source": "Phonology",
+            "target": "Writing"
+        },
+        {
+            "source": "Morphology (linguistics)",
+            "target": "Writing"
+        },
+        {
+            "source": "Written language",
+            "target": "Writing"
+        },
+        {
+            "source": "Text (literary theory)",
+            "target": "Writing"
+        },
+        {
+            "source": "Handwriting",
+            "target": "Writing"
+        },
+        {
+            "source": "Printing press",
+            "target": "Writing"
+        },
+        {
+            "source": "Digital data",
+            "target": "Writing"
+        },
+        {
+            "source": "Symbol",
+            "target": "Writing"
+        },
+        {
+            "source": "Computer language",
+            "target": "Writing"
+        },
+        {
+            "source": "Spoken language",
+            "target": "Writing"
+        },
+        {
+            "source": "Letter (message)",
+            "target": "Writing"
+        },
+        {
+            "source": "Libraries",
+            "target": "Writing"
+        },
+        {
+            "source": "Finger",
+            "target": "Writing"
+        },
+        {
+            "source": "Stylus",
+            "target": "Writing"
+        },
+        {
+            "source": "Quill",
+            "target": "Writing"
+        },
+        {
+            "source": "Ink brush",
+            "target": "Writing"
+        },
+        {
+            "source": "Pencil",
+            "target": "Writing"
+        },
+        {
+            "source": "Pen",
+            "target": "Writing"
+        },
+        {
+            "source": "Lithography",
+            "target": "Writing"
+        },
+        {
+            "source": "Stone tablet",
+            "target": "Writing"
+        },
+        {
+            "source": "Clay tablet",
+            "target": "Writing"
+        },
+        {
+            "source": "Papyrus",
+            "target": "Writing"
+        },
+        {
+            "source": "Wax tablet",
+            "target": "Writing"
+        },
+        {
+            "source": "Vellum",
+            "target": "Writing"
+        },
+        {
+            "source": "Parchment",
+            "target": "Writing"
+        },
+        {
+            "source": "Paper",
+            "target": "Writing"
+        },
+        {
+            "source": "Intaglio printing",
+            "target": "Writing"
+        },
+        {
+            "source": "Blackboard",
+            "target": "Writing"
+        },
+        {
+            "source": "Porcelain",
+            "target": "Writing"
+        },
+        {
+            "source": "Whiteboard",
+            "target": "Writing"
+        },
+        {
+            "source": "Quipu",
+            "target": "Writing"
+        },
+        {
+            "source": "Graffiti",
+            "target": "Writing"
+        },
+        {
+            "source": "Tattoo",
+            "target": "Writing"
+        },
+        {
+            "source": "Typewriter",
+            "target": "Writing"
+        },
+        {
+            "source": "Word processor",
+            "target": "Writing"
+        },
+        {
+            "source": "Multiple-document interface",
+            "target": "Writing"
+        },
+        {
+            "source": "Comparison of note-taking software",
+            "target": "Writing"
+        },
+        {
+            "source": "World Wide Web",
+            "target": "Writing"
+        },
+        {
+            "source": "Search engine",
+            "target": "Writing"
+        },
+        {
+            "source": "Wiki",
+            "target": "Writing"
+        },
+        {
+            "source": "E-mail",
+            "target": "Writing"
+        },
+        {
+            "source": "User interface",
+            "target": "Writing"
+        },
+        {
+            "source": "Operating system",
+            "target": "Writing"
+        },
+        {
+            "source": "Input device",
+            "target": "Writing"
+        },
+        {
+            "source": "Natural language processing",
+            "target": "Writing"
+        },
+        {
+            "source": "Natural language generation",
+            "target": "Writing"
+        },
+        {
+            "source": "Software",
+            "target": "Writing"
+        },
+        {
+            "source": "Machine translation",
+            "target": "Writing"
+        },
+        {
+            "source": "Development of writing",
+            "target": "Writing"
+        },
+        {
+            "source": "History",
+            "target": "Writing"
+        },
+        {
+            "source": "Culture",
+            "target": "Writing"
+        },
+        {
+            "source": "Curriculum",
+            "target": "Writing"
+        },
+        {
+            "source": "The Canon of Medicine",
+            "target": "Writing"
+        },
+        {
+            "source": "Literary canon",
+            "target": "Writing"
+        },
+        {
+            "source": "Legal systems",
+            "target": "Writing"
+        },
+        {
+            "source": "Census",
+            "target": "Writing"
+        },
+        {
+            "source": "Contract",
+            "target": "Writing"
+        },
+        {
+            "source": "Deed",
+            "target": "Writing"
+        },
+        {
+            "source": "Tax",
+            "target": "Writing"
+        },
+        {
+            "source": "Trade agreement",
+            "target": "Writing"
+        },
+        {
+            "source": "Treaty",
+            "target": "Writing"
+        },
+        {
+            "source": "H.G. Wells",
+            "target": "Writing"
+        },
+        {
+            "source": "City-state",
+            "target": "Writing"
+        },
+        {
+            "source": "Empire",
+            "target": "Writing"
+        },
+        {
+            "source": "Charles Bazerman",
+            "target": "Writing"
+        },
+        {
+            "source": "Mesopotamia",
+            "target": "Writing"
+        },
+        {
+            "source": "Mesopotamia",
+            "target": "Literature"
+        },
+        {
+            "source": "Ancient Egypt",
+            "target": "Writing"
+        },
+        {
+            "source": "Ancient Egypt",
+            "target": "Art"
+        },
+        {
+            "source": "Mesoamerica",
+            "target": "Writing"
+        },
+        {
+            "source": "Religious text",
+            "target": "Writing"
+        },
+        {
+            "source": "Models of scientific inquiry",
+            "target": "Writing"
+        },
+        {
+            "source": "Knowledge management",
+            "target": "Writing"
+        },
+        {
+            "source": "History of writing",
+            "target": "Writing"
+        },
+        {
+            "source": "History of writing",
+            "target": "Literature"
+        },
+        {
+            "source": "Soft systems methodology",
+            "target": "Writing"
+        },
+        {
+            "source": "Memory",
+            "target": "Writing"
+        },
+        {
+            "source": "Time management",
+            "target": "Writing"
+        },
+        {
+            "source": "Recipe",
+            "target": "Writing"
+        },
+        {
+            "source": "Logbook",
+            "target": "Writing"
+        },
+        {
+            "source": "Map",
+            "target": "Writing"
+        },
+        {
+            "source": "Ritual",
+            "target": "Writing"
+        },
+        {
+            "source": "Essay",
+            "target": "Writing"
+        },
+        {
+            "source": "Monograph",
+            "target": "Writing"
+        },
+        {
+            "source": "Broadside (printing)",
+            "target": "Writing"
+        },
+        {
+            "source": "Plan",
+            "target": "Writing"
+        },
+        {
+            "source": "Issue tracking system",
+            "target": "Writing"
+        },
+        {
+            "source": "Petition",
+            "target": "Writing"
+        },
+        {
+            "source": "Manifesto",
+            "target": "Writing"
+        },
+        {
+            "source": "Storytelling",
+            "target": "Writing"
+        },
+        {
+            "source": "Kinship",
+            "target": "Writing"
+        },
+        {
+            "source": "Business correspondence",
+            "target": "Writing"
+        },
+        {
+            "source": "Activism",
+            "target": "Writing"
+        },
+        {
+            "source": "Life writing",
+            "target": "Writing"
+        },
+        {
+            "source": "Diary",
+            "target": "Writing"
+        },
+        {
+            "source": "Social media",
+            "target": "Writing"
+        },
+        {
+            "source": "Developed country",
+            "target": "Writing"
+        },
+        {
+            "source": "Lawyer",
+            "target": "Writing"
+        },
+        {
+            "source": "Accounting",
+            "target": "Writing"
+        },
+        {
+            "source": "Software design",
+            "target": "Writing"
+        },
+        {
+            "source": "Human resource management",
+            "target": "Writing"
+        },
+        {
+            "source": "Workflow",
+            "target": "Writing"
+        },
+        {
+            "source": "Records management",
+            "target": "Writing"
+        },
+        {
+            "source": "Incident report",
+            "target": "Writing"
+        },
+        {
+            "source": "Inventory",
+            "target": "Writing"
+        },
+        {
+            "source": "Sales",
+            "target": "Writing"
+        },
+        {
+            "source": "Timesheet",
+            "target": "Writing"
+        },
+        {
+            "source": "Drayage",
+            "target": "Writing"
+        },
+        {
+            "source": "Constitution",
+            "target": "Writing"
+        },
+        {
+            "source": "Legislature",
+            "target": "Writing"
+        },
+        {
+            "source": "Executive (government)",
+            "target": "Writing"
+        },
+        {
+            "source": "Governance",
+            "target": "Writing"
+        },
+        {
+            "source": "Policy",
+            "target": "Writing"
+        },
+        {
+            "source": "International treaty",
+            "target": "Writing"
+        },
+        {
+            "source": "Budget",
+            "target": "Writing"
+        },
+        {
+            "source": "Economic",
+            "target": "Writing"
+        },
+        {
+            "source": "Goal",
+            "target": "Writing"
+        },
+        {
+            "source": "Value (ethics)",
+            "target": "Writing"
+        },
+        {
+            "source": "Problem solving",
+            "target": "Writing"
+        },
+        {
+            "source": "Corporate governance",
+            "target": "Writing"
+        },
+        {
+            "source": "Legal writing",
+            "target": "Writing"
+        },
+        {
+            "source": "Academic discipline",
+            "target": "Writing"
+        },
+        {
+            "source": "Research",
+            "target": "Writing"
+        },
+        {
+            "source": "Academic authorship",
+            "target": "Writing"
+        },
+        {
+            "source": "Citation",
+            "target": "Writing"
+        },
+        {
+            "source": "Academic journal",
+            "target": "Writing"
+        },
+        {
+            "source": "University press",
+            "target": "Writing"
+        },
+        {
+            "source": "Lab notebook",
+            "target": "Writing"
+        },
+        {
+            "source": "Preprint",
+            "target": "Writing"
+        },
+        {
+            "source": "Peer review",
+            "target": "Writing"
+        },
+        {
+            "source": "Intertextuality",
+            "target": "Writing"
+        },
+        {
+            "source": "Journalism ethics and standards",
+            "target": "Writing"
+        },
+        {
+            "source": "Children's literature",
+            "target": "Writing"
+        },
+        {
+            "source": "Children's literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Young adult fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Western canon",
+            "target": "Writing"
+        },
+        {
+            "source": "Western canon",
+            "target": "Literature"
+        },
+        {
+            "source": "Historical fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Science fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Romance novel",
+            "target": "Writing"
+        },
+        {
+            "source": "Fan fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Fan fiction",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Western fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Apocalyptic and post-apocalyptic fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Mystery fiction",
+            "target": "Writing"
+        },
+        {
+            "source": "Popular history",
+            "target": "Writing"
+        },
+        {
+            "source": "Biography",
+            "target": "Writing"
+        },
+        {
+            "source": "Autobiography",
+            "target": "Writing"
+        },
+        {
+            "source": "Memoir",
+            "target": "Writing"
+        },
+        {
+            "source": "Self-help book",
+            "target": "Writing"
+        },
+        {
+            "source": "Popular science",
+            "target": "Writing"
+        },
+        {
+            "source": "Social issue",
+            "target": "Writing"
+        },
+        {
+            "source": "Futures studies",
+            "target": "Writing"
+        },
+        {
+            "source": "Prospectus (book)",
+            "target": "Writing"
+        },
+        {
+            "source": "Press release",
+            "target": "Writing"
+        },
+        {
+            "source": "Writing assessment",
+            "target": "Writing"
+        },
+        {
+            "source": "Teacher evaluations",
+            "target": "Writing"
+        },
+        {
+            "source": "Logogram",
+            "target": "Writing"
+        },
+        {
+            "source": "Syllabary",
+            "target": "Writing"
+        },
+        {
+            "source": "Alphabet",
+            "target": "Writing"
+        },
+        {
+            "source": "Featural writing system",
+            "target": "Writing"
+        },
+        {
+            "source": "Pictogram",
+            "target": "Writing"
+        },
+        {
+            "source": "Word",
+            "target": "Writing"
+        },
+        {
+            "source": "Morpheme",
+            "target": "Writing"
+        },
+        {
+            "source": "Syllable",
+            "target": "Writing"
+        },
+        {
+            "source": "Ideogram",
+            "target": "Writing"
+        },
+        {
+            "source": "Chinese characters",
+            "target": "Writing"
+        },
+        {
+            "source": "Languages of China",
+            "target": "Writing"
+        },
+        {
+            "source": "Languages of Japan",
+            "target": "Writing"
+        },
+        {
+            "source": "Korean language",
+            "target": "Writing"
+        },
+        {
+            "source": "Korean language",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "South Korea",
+            "target": "Writing"
+        },
+        {
+            "source": "North Korea",
+            "target": "Writing"
+        },
+        {
+            "source": "Hangul",
+            "target": "Writing"
+        },
+        {
+            "source": "Cuneiform",
+            "target": "Writing"
+        },
+        {
+            "source": "Mayan script",
+            "target": "Writing"
+        },
+        {
+            "source": "Linear B",
+            "target": "Writing"
+        },
+        {
+            "source": "Mycenaean Greek",
+            "target": "Writing"
+        },
+        {
+            "source": "Cherokee syllabary",
+            "target": "Writing"
+        },
+        {
+            "source": "Ndyuka language",
+            "target": "Writing"
+        },
+        {
+            "source": "Creole language",
+            "target": "Writing"
+        },
+        {
+            "source": "Suriname",
+            "target": "Writing"
+        },
+        {
+            "source": "Vai language",
+            "target": "Writing"
+        },
+        {
+            "source": "Liberia",
+            "target": "Writing"
+        },
+        {
+            "source": "Consonant",
+            "target": "Writing"
+        },
+        {
+            "source": "Vowel",
+            "target": "Writing"
+        },
+        {
+            "source": "Phoneme",
+            "target": "Writing"
+        },
+        {
+            "source": "Latin alphabet",
+            "target": "Writing"
+        },
+        {
+            "source": "Greek alphabet",
+            "target": "Writing"
+        },
+        {
+            "source": "Abjad",
+            "target": "Writing"
+        },
+        {
+            "source": "Southeast Asia",
+            "target": "Writing"
+        },
+        {
+            "source": "Abugida",
+            "target": "Writing"
+        },
+        {
+            "source": "Ge\u02bdez script",
+            "target": "Writing"
+        },
+        {
+            "source": "Canadian Aboriginal syllabics",
+            "target": "Writing"
+        },
+        {
+            "source": "Labial consonant",
+            "target": "Writing"
+        },
+        {
+            "source": "SignWriting",
+            "target": "Writing"
+        },
+        {
+            "source": "Sign languages",
+            "target": "Writing"
+        },
+        {
+            "source": "Secular icon",
+            "target": "Writing"
+        },
+        {
+            "source": "J.R.R. Tolkien",
+            "target": "Writing"
+        },
+        {
+            "source": "Tengwar",
+            "target": "Writing"
+        },
+        {
+            "source": "Cascajal Block",
+            "target": "Writing"
+        },
+        {
+            "source": "Veracruz",
+            "target": "Writing"
+        },
+        {
+            "source": "Zapotec writing",
+            "target": "Writing"
+        },
+        {
+            "source": "Olmec",
+            "target": "Writing"
+        },
+        {
+            "source": "Pre-Columbian",
+            "target": "Writing"
+        },
+        {
+            "source": "Maya script",
+            "target": "Writing"
+        },
+        {
+            "source": "Central Asia",
+            "target": "Writing"
+        },
+        {
+            "source": "Ashgabat",
+            "target": "Writing"
+        },
+        {
+            "source": "Turkmenistan",
+            "target": "Writing"
+        },
+        {
+            "source": "Oracle bone",
+            "target": "Writing"
+        },
+        {
+            "source": "Plastron",
+            "target": "Writing"
+        },
+        {
+            "source": "Scapula",
+            "target": "Writing"
+        },
+        {
+            "source": "Shang dynasty",
+            "target": "Writing"
+        },
+        {
+            "source": "Jiahu symbols",
+            "target": "Writing"
+        },
+        {
+            "source": "Egyptian hieroglyph",
+            "target": "Writing"
+        },
+        {
+            "source": "Narmer Palette",
+            "target": "Writing"
+        },
+        {
+            "source": "Seth-Peribsen",
+            "target": "Writing"
+        },
+        {
+            "source": "Scribe",
+            "target": "Writing"
+        },
+        {
+            "source": "Middle Bronze Age alphabets",
+            "target": "Writing"
+        },
+        {
+            "source": "Wadi el-Hol",
+            "target": "Writing"
+        },
+        {
+            "source": "Hieroglyph",
+            "target": "Writing"
+        },
+        {
+            "source": "Proto-Elamite",
+            "target": "Writing"
+        },
+        {
+            "source": "Susa",
+            "target": "Writing"
+        },
+        {
+            "source": "Linear Elamite",
+            "target": "Writing"
+        },
+        {
+            "source": "Elamite cuneiform",
+            "target": "Writing"
+        },
+        {
+            "source": "Akkadian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Cuneiform (script)",
+            "target": "Writing"
+        },
+        {
+            "source": "Upper Palaeolithic",
+            "target": "Writing"
+        },
+        {
+            "source": "Calendar",
+            "target": "Writing"
+        },
+        {
+            "source": "Proto-writing",
+            "target": "Writing"
+        },
+        {
+            "source": "Cretan hieroglyphs",
+            "target": "Writing"
+        },
+        {
+            "source": "Crete",
+            "target": "Writing"
+        },
+        {
+            "source": "Mycenaean Greece",
+            "target": "Writing"
+        },
+        {
+            "source": "Linear A",
+            "target": "Writing"
+        },
+        {
+            "source": "Aegean Islands",
+            "target": "Writing"
+        },
+        {
+            "source": "Kea (island)",
+            "target": "Writing"
+        },
+        {
+            "source": "Cythera (island)",
+            "target": "Writing"
+        },
+        {
+            "source": "Milos",
+            "target": "Writing"
+        },
+        {
+            "source": "Santorini",
+            "target": "Writing"
+        },
+        {
+            "source": "Greek mainland",
+            "target": "Writing"
+        },
+        {
+            "source": "Laconia",
+            "target": "Writing"
+        },
+        {
+            "source": "Knossos",
+            "target": "Writing"
+        },
+        {
+            "source": "Pylos",
+            "target": "Writing"
+        },
+        {
+            "source": "Mycenae",
+            "target": "Writing"
+        },
+        {
+            "source": "Thebes, Greece",
+            "target": "Writing"
+        },
+        {
+            "source": "Tiryns",
+            "target": "Writing"
+        },
+        {
+            "source": "Indus Valley civilization",
+            "target": "Writing"
+        },
+        {
+            "source": "Pakistan",
+            "target": "Writing"
+        },
+        {
+            "source": "North India",
+            "target": "Writing"
+        },
+        {
+            "source": "Harappa",
+            "target": "Writing"
+        },
+        {
+            "source": "Boustrophedonic",
+            "target": "Writing"
+        },
+        {
+            "source": "Agglutinative",
+            "target": "Writing"
+        },
+        {
+            "source": "Neolithic",
+            "target": "Writing"
+        },
+        {
+            "source": "Bronze Age",
+            "target": "Writing"
+        },
+        {
+            "source": "4th millennium BC",
+            "target": "Writing"
+        },
+        {
+            "source": "Sumerian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Cuneiform script",
+            "target": "Writing"
+        },
+        {
+            "source": "Egyptian hieroglyphs",
+            "target": "Writing"
+        },
+        {
+            "source": "26th century BC",
+            "target": "Writing"
+        },
+        {
+            "source": "Cultural diffusion",
+            "target": "Writing"
+        },
+        {
+            "source": "Denise Schmandt-Besserat",
+            "target": "Writing"
+        },
+        {
+            "source": "Mesopotamian",
+            "target": "Writing"
+        },
+        {
+            "source": "Pictographs",
+            "target": "Writing"
+        },
+        {
+            "source": "East Semitic",
+            "target": "Writing"
+        },
+        {
+            "source": "Old Assyrian period",
+            "target": "Writing"
+        },
+        {
+            "source": "Babylonia",
+            "target": "Writing"
+        },
+        {
+            "source": "Elamite language",
+            "target": "Writing"
+        },
+        {
+            "source": "Hattian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Hurrian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Hittite language",
+            "target": "Writing"
+        },
+        {
+            "source": "Ugaritic language",
+            "target": "Writing"
+        },
+        {
+            "source": "Old Persian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Aramaic language",
+            "target": "Writing"
+        },
+        {
+            "source": "Neo-Assyrian Empire",
+            "target": "Writing"
+        },
+        {
+            "source": "Proto-Sinaitic",
+            "target": "Writing"
+        },
+        {
+            "source": "Proto-Canaanite",
+            "target": "Writing"
+        },
+        {
+            "source": "Phoenician script",
+            "target": "Writing"
+        },
+        {
+            "source": "Cumae alphabet",
+            "target": "Writing"
+        },
+        {
+            "source": "Etruscan alphabet",
+            "target": "Writing"
+        },
+        {
+            "source": "Rune",
+            "target": "Writing"
+        },
+        {
+            "source": "Cyrillic script",
+            "target": "Writing"
+        },
+        {
+            "source": "Bulgarian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Russian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Serbian language",
+            "target": "Writing"
+        },
+        {
+            "source": "Aramaic script",
+            "target": "Writing"
+        },
+        {
+            "source": "Hebrew script",
+            "target": "Writing"
+        },
+        {
+            "source": "Arabic script",
+            "target": "Writing"
+        },
+        {
+            "source": "Tifinagh",
+            "target": "Writing"
+        },
+        {
+            "source": "Religious texts",
+            "target": "Writing"
+        },
+        {
+            "source": "Gutenberg Bible",
+            "target": "Writing"
+        },
+        {
+            "source": "Collective identity",
+            "target": "Writing"
+        },
+        {
+            "source": "Belief",
+            "target": "Writing"
+        },
+        {
+            "source": "Religious war",
+            "target": "Writing"
+        },
+        {
+            "source": "Literacy",
+            "target": "Writing"
+        },
+        {
+            "source": "Literacy",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Writing center",
+            "target": "Writing"
+        },
+        {
+            "source": "Socioeconomic status",
+            "target": "Writing"
+        },
+        {
+            "source": "World Literacy Foundation",
+            "target": "Writing"
+        },
+        {
+            "source": "International Literacy Foundation",
+            "target": "Writing"
+        },
+        {
+            "source": "Art",
+            "target": "Literature"
+        },
+        {
+            "source": "Art",
+            "target": "Human behavior"
+        },
+        {
+            "source": "Art",
+            "target": "Visual art"
+        },
+        {
+            "source": "Art",
+            "target": "Aesthetic interpretation"
+        },
+        {
+            "source": "Art",
+            "target": "Pre-historic art"
+        },
+        {
+            "source": "Art",
+            "target": "Plato"
+        },
+        {
+            "source": "Art",
+            "target": "Epic poetry"
+        },
+        {
+            "source": "Art",
+            "target": "Commercial art"
+        },
+        {
+            "source": "Art",
+            "target": "Richard Wollheim"
+        },
+        {
+            "source": "Art",
+            "target": "Romanticism"
+        },
+        {
+            "source": "Art",
+            "target": "Homo erectus"
+        },
+        {
+            "source": "Art",
+            "target": "Riesenhirschknochen der Einhornh\u00f6hle"
+        },
+        {
+            "source": "Art",
+            "target": "Cave paintings"
+        },
+        {
+            "source": "Art",
+            "target": "Venus of Hohle Fels"
+        },
+        {
+            "source": "Art",
+            "target": "Ancient Egypt"
+        },
+        {
+            "source": "Art",
+            "target": "Byzantine art"
+        },
+        {
+            "source": "Art",
+            "target": "Renaissance art"
+        },
+        {
+            "source": "Art",
+            "target": "Islamic art"
+        },
+        {
+            "source": "Art",
+            "target": "Age of Enlightenment"
+        },
+        {
+            "source": "Art",
+            "target": "Impressionism"
+        },
+        {
+            "source": "Art",
+            "target": "Modernism"
+        },
+        {
+            "source": "Art",
+            "target": "The Origin of the Work of Art"
+        },
+        {
+            "source": "Art",
+            "target": "Silk Road"
+        },
+        {
+            "source": "Art",
+            "target": "Art medium"
+        },
+        {
+            "source": "Art",
+            "target": "Formalism (art)"
+        },
+        {
+            "source": "Art",
+            "target": "Authorial intent"
+        },
+        {
+            "source": "Art",
+            "target": "Post-structuralism"
+        },
+        {
+            "source": "Art",
+            "target": "Leonardo da Vinci"
+        },
+        {
+            "source": "Art",
+            "target": "Modern art"
+        },
+        {
+            "source": "Art",
+            "target": "L\u00e9vi-Strauss"
+        },
+        {
+            "source": "Art",
+            "target": "Artistic inspiration"
+        },
+        {
+            "source": "Art",
+            "target": "Mood (psychology)"
+        },
+        {
+            "source": "Art",
+            "target": "Art appreciation"
+        },
+        {
+            "source": "Art",
+            "target": "Ceramics of indigenous peoples of the Americas"
+        },
+        {
+            "source": "Art",
+            "target": "Printmaking"
+        },
+        {
+            "source": "Art",
+            "target": "Basel"
+        },
+        {
+            "source": "Art",
+            "target": "Public art"
+        },
+        {
+            "source": "Art",
+            "target": "Orleans Collection"
+        },
+        {
+            "source": "Art",
+            "target": "The Metropolitan Museum of Art"
+        },
+        {
+            "source": "Art",
+            "target": "Joseph Beuys"
+        },
+        {
+            "source": "Art",
+            "target": "Iconoclasm"
+        },
+        {
+            "source": "Art",
+            "target": "Pablo Picasso"
+        },
+        {
+            "source": "Art",
+            "target": "Realism (arts)"
+        },
+        {
+            "source": "Art",
+            "target": "Michael Fried"
+        },
+        {
+            "source": "Art",
+            "target": "Pop art"
+        },
+        {
+            "source": "Art",
+            "target": "Techne"
+        },
+        {
+            "source": "Art",
+            "target": "New Criticism"
+        },
+        {
+            "source": "Art",
+            "target": "William K. Wimsatt"
+        },
+        {
+            "source": "Art",
+            "target": "Affective fallacy"
+        },
+        {
+            "source": "Art",
+            "target": "Berys Gaut"
+        },
+        {
+            "source": "Art",
+            "target": "Linguistic turn"
+        },
+        {
+            "source": "Art",
+            "target": "Structuralism"
+        },
+        {
+            "source": "Art",
+            "target": "Cubist"
+        },
+        {
+            "source": "Art",
+            "target": "Anti-art"
+        },
+        {
+            "source": "Art",
+            "target": "Decorative arts"
+        },
+        {
+            "source": "Art",
+            "target": "Francisco Goya"
+        },
+        {
+            "source": "Art",
+            "target": "Zeitgeist"
+        },
+        {
+            "source": "Art",
+            "target": "Forgeries"
+        },
+        {
+            "source": "Art",
+            "target": "UN"
+        },
+        {
+            "source": "Human behavior",
+            "target": "Art"
+        },
+        {
+            "source": "Visual art",
+            "target": "Art"
+        },
+        {
+            "source": "Aesthetic interpretation",
+            "target": "Art"
+        },
+        {
+            "source": "Pre-historic art",
+            "target": "Art"
+        },
+        {
+            "source": "Plato",
+            "target": "Art"
+        },
+        {
+            "source": "Plato",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Epic poetry",
+            "target": "Art"
+        },
+        {
+            "source": "Commercial art",
+            "target": "Art"
+        },
+        {
+            "source": "Richard Wollheim",
+            "target": "Art"
+        },
+        {
+            "source": "Romanticism",
+            "target": "Art"
+        },
+        {
+            "source": "Romanticism",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Homo erectus",
+            "target": "Art"
+        },
+        {
+            "source": "Riesenhirschknochen der Einhornh\u00f6hle",
+            "target": "Art"
+        },
+        {
+            "source": "Cave paintings",
+            "target": "Art"
+        },
+        {
+            "source": "Venus of Hohle Fels",
+            "target": "Art"
+        },
+        {
+            "source": "Byzantine art",
+            "target": "Art"
+        },
+        {
+            "source": "Renaissance art",
+            "target": "Art"
+        },
+        {
+            "source": "Islamic art",
+            "target": "Art"
+        },
+        {
+            "source": "Age of Enlightenment",
+            "target": "Art"
+        },
+        {
+            "source": "Impressionism",
+            "target": "Art"
+        },
+        {
+            "source": "Modernism",
+            "target": "Art"
+        },
+        {
+            "source": "The Origin of the Work of Art",
+            "target": "Art"
+        },
+        {
+            "source": "Silk Road",
+            "target": "Art"
+        },
+        {
+            "source": "Art medium",
+            "target": "Art"
+        },
+        {
+            "source": "Formalism (art)",
+            "target": "Art"
+        },
+        {
+            "source": "Authorial intent",
+            "target": "Art"
+        },
+        {
+            "source": "Post-structuralism",
+            "target": "Art"
+        },
+        {
+            "source": "Leonardo da Vinci",
+            "target": "Art"
+        },
+        {
+            "source": "Modern art",
+            "target": "Art"
+        },
+        {
+            "source": "L\u00e9vi-Strauss",
+            "target": "Art"
+        },
+        {
+            "source": "Artistic inspiration",
+            "target": "Art"
+        },
+        {
+            "source": "Mood (psychology)",
+            "target": "Art"
+        },
+        {
+            "source": "Art appreciation",
+            "target": "Art"
+        },
+        {
+            "source": "Ceramics of indigenous peoples of the Americas",
+            "target": "Art"
+        },
+        {
+            "source": "Printmaking",
+            "target": "Art"
+        },
+        {
+            "source": "Basel",
+            "target": "Art"
+        },
+        {
+            "source": "Public art",
+            "target": "Art"
+        },
+        {
+            "source": "Orleans Collection",
+            "target": "Art"
+        },
+        {
+            "source": "The Metropolitan Museum of Art",
+            "target": "Art"
+        },
+        {
+            "source": "Joseph Beuys",
+            "target": "Art"
+        },
+        {
+            "source": "Iconoclasm",
+            "target": "Art"
+        },
+        {
+            "source": "Pablo Picasso",
+            "target": "Art"
+        },
+        {
+            "source": "Realism (arts)",
+            "target": "Art"
+        },
+        {
+            "source": "Realism (arts)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Michael Fried",
+            "target": "Art"
+        },
+        {
+            "source": "Pop art",
+            "target": "Art"
+        },
+        {
+            "source": "Techne",
+            "target": "Art"
+        },
+        {
+            "source": "New Criticism",
+            "target": "Art"
+        },
+        {
+            "source": "William K. Wimsatt",
+            "target": "Art"
+        },
+        {
+            "source": "Affective fallacy",
+            "target": "Art"
+        },
+        {
+            "source": "Berys Gaut",
+            "target": "Art"
+        },
+        {
+            "source": "Linguistic turn",
+            "target": "Art"
+        },
+        {
+            "source": "Structuralism",
+            "target": "Art"
+        },
+        {
+            "source": "Cubist",
+            "target": "Art"
+        },
+        {
+            "source": "Anti-art",
+            "target": "Art"
+        },
+        {
+            "source": "Decorative arts",
+            "target": "Art"
+        },
+        {
+            "source": "Francisco Goya",
+            "target": "Art"
+        },
+        {
+            "source": "Zeitgeist",
+            "target": "Art"
+        },
+        {
+            "source": "Forgeries",
+            "target": "Art"
+        },
+        {
+            "source": "UN",
+            "target": "Art"
+        },
+        {
+            "source": "Non-fiction",
+            "target": "Literature"
+        },
+        {
+            "source": "Etymology",
+            "target": "Literature"
+        },
+        {
+            "source": "History of printing",
+            "target": "Literature"
+        },
+        {
+            "source": "Western Europe",
+            "target": "Literature"
+        },
+        {
+            "source": "Value judgment",
+            "target": "Literature"
+        },
+        {
+            "source": "Australian Aboriginal culture",
+            "target": "Literature"
+        },
+        {
+            "source": "Oral literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Poetry",
+            "target": "Literature"
+        },
+        {
+            "source": "Vedic chant",
+            "target": "Literature"
+        },
+        {
+            "source": "Homer",
+            "target": "Literature"
+        },
+        {
+            "source": "Native North Americans",
+            "target": "Literature"
+        },
+        {
+            "source": "African literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Rhetoric",
+            "target": "Literature"
+        },
+        {
+            "source": "Ancient Egyptian literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Panchatantra",
+            "target": "Literature"
+        },
+        {
+            "source": "Chinese classics",
+            "target": "Literature"
+        },
+        {
+            "source": "Indian literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Mycenaean language",
+            "target": "Literature"
+        },
+        {
+            "source": "Hebrew",
+            "target": "Literature"
+        },
+        {
+            "source": "Roman literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Qur'an",
+            "target": "Literature"
+        },
+        {
+            "source": "Mediaeval literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Renaissance",
+            "target": "Literature"
+        },
+        {
+            "source": "Renaissance",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Bi Sheng",
+            "target": "Literature"
+        },
+        {
+            "source": "Incunable",
+            "target": "Literature"
+        },
+        {
+            "source": "History of newspaper publishing",
+            "target": "Literature"
+        },
+        {
+            "source": "Utilitarians",
+            "target": "Literature"
+        },
+        {
+            "source": "Victor Hugo",
+            "target": "Literature"
+        },
+        {
+            "source": "English poetry",
+            "target": "Literature"
+        },
+        {
+            "source": "Nobel Prize in Literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Feminism",
+            "target": "Literature"
+        },
+        {
+            "source": "Literary theory",
+            "target": "Literature"
+        },
+        {
+            "source": "Literary fiction",
+            "target": "Literature"
+        },
+        {
+            "source": "William Boyd (writer)",
+            "target": "Literature"
+        },
+        {
+            "source": "Abraham Maslow",
+            "target": "Literature"
+        },
+        {
+            "source": "Vedas",
+            "target": "Literature"
+        },
+        {
+            "source": "King James Version",
+            "target": "Literature"
+        },
+        {
+            "source": "Preaching",
+            "target": "Literature"
+        },
+        {
+            "source": "Aristotle",
+            "target": "Literature"
+        },
+        {
+            "source": "Prose",
+            "target": "Literature"
+        },
+        {
+            "source": "Ancient Greece",
+            "target": "Literature"
+        },
+        {
+            "source": "Latin",
+            "target": "Literature"
+        },
+        {
+            "source": "Fictional",
+            "target": "Literature"
+        },
+        {
+            "source": "Melville House Publishing",
+            "target": "Literature"
+        },
+        {
+            "source": "Short story",
+            "target": "Literature"
+        },
+        {
+            "source": "Graphic novel",
+            "target": "Literature"
+        },
+        {
+            "source": "Electronic literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Nonfiction",
+            "target": "Literature"
+        },
+        {
+            "source": "Drama",
+            "target": "Literature"
+        },
+        {
+            "source": "Greek theatre",
+            "target": "Literature"
+        },
+        {
+            "source": "Screenplay",
+            "target": "Literature"
+        },
+        {
+            "source": "Law and literature",
+            "target": "Literature"
+        },
+        {
+            "source": "Copyright",
+            "target": "Literature"
+        },
+        {
+            "source": "Copyright law of the United States",
+            "target": "Literature"
+        },
+        {
+            "source": "Copyright law of the European Union",
+            "target": "Literature"
+        },
+        {
+            "source": "Copyright in Japan",
+            "target": "Literature"
+        },
+        {
+            "source": "Sedition",
+            "target": "Literature"
+        },
+        {
+            "source": "James Joyce",
+            "target": "Literature"
+        },
+        {
+            "source": "Literary award",
+            "target": "Literature"
+        },
+        {
+            "source": "Fantasy",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Alice's Adventures in Wonderland",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Classical mythology",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Empedocles",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "India",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Middle East",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Baital Pachisi",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "The Book of One Thousand and One Nights",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Fornaldarsaga",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Celtic mythology",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Wales",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Chivalric romance",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Alchemy",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Fairy tale",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Voltaire",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Daniel Defoe",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Elizabethan era",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Gothic novel",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Brothers Grimm",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Charles Nodier",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Victorian literature",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Hans Christian Andersen",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "George MacDonald",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "William Morris",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Edgar Allan Poe",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "H. Rider Haggard",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Juvenile fantasy",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Der Orchideengarten",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "H. P. Lovecraft",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Lord Dunsany",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Stella Benson",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Herbert Read",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "The Sword in the Stone (novel)",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Mervyn Peake",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Tolkien's influence on fantasy",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "The New York Times Best Seller list",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Folklore",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Ursula K. Le Guin",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Michael Moorcock",
+            "target": "Fantasy literature"
+        },
+        {
+            "source": "Bloomsbury Publishing",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Philosopher's Stone",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter (film series)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Pottermore",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter (character)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Hogwarts",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Chamber of Secrets",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Prisoner of Azkaban",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Goblet of Fire",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Order of the Phoenix",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Half-Blood Prince",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter and the Deathly Hallows",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "James Sirius Potter",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "School story",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Muggles",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Summer term",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Arthurian myth",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Allegory",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Magical creatures in Harry Potter",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Politics of Harry Potter",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Manchester",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Manuscript",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Scholastic Press",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Audiobook",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Viktor Golyshev",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "American English",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Thomas Taylor (artist)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Mary GrandPr\u00e9",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Film adaptation",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "The New York Times",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "The Scotsman",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harold Bloom",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Michael Rosen",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "The Times",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "The Daily Telegraph",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Slate (magazine)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "J. R. R. Tolkien",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Patriarchal",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "House-elves",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Lawsuit",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Wicca",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Intellectual snobbery",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Diana Wynne Jones",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Enid Blyton",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Oxford English Dictionary",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "National Endowment for the Arts",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Nestl\u00e9 Smarties Book Prize",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "James Bond",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Great Britain commemorative stamps 2000\u20132009",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Warner Bros.",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Chris Columbus (filmmaker)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Fantastic Beasts and Where to Find Them (film)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Cluedo",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Electronic Arts",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Traveller's Tales",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "HBO Max",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Max (streaming service)",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Islands of Adventure",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Universal Studios Florida",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Warner Bros. Studios, Leavesden",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Harry Potter universe",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists",
+            "target": "Harry Potter"
+        },
+        {
+            "source": "The Worst Witch",
+            "target": "Harry Potter"
+        }
+    ]
+}
